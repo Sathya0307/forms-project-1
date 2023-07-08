@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    margin-left: 400px;
+}
+
+.form{
+    border: 2px solid aqua;
+    background-color: pink;
+    width: 200px;
+    padding: 5px;
+}
+input[type="submit"]{
+    background-color: blueviolet;
+}
